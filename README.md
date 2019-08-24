@@ -1,21 +1,20 @@
-# vbase2.0
+# vue+h5plus base2.0
 
-> A Vue.js project
+> 一个集成vue和h5plus的webapp框架
+> 引入vant UI框架
+> 相关h5plus api 放到h5plus文件夹
+> build以后使用hbuliderx打包App
 
-## Build Setup
+## 使用
 
 ``` bash
-# install dependencies
+# 
 npm install
 
-# serve with hot reload at localhost:8080
+# 
 npm run dev
 
-# build for production with minification
+# 
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
